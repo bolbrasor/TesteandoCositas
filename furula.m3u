@@ -3,11 +3,14 @@
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nhiaoEc.png" group-title="Testeo", daily directo
 https://www.dailymotion.com/video/x7wzxiw
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/nhiaoEc.png" group-title="Testeo", daily Codiguito
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nhiaoEc.png" group-title="Testeo", daily Codiguito 2
 https://streamlive2021.herokuapp.com/iptv-query?streaming-ip=https://www.dailymotion.com/video/x7wzxiw
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/TP83hcn/Sin-t-tulo-1.png" group-title="Testeo",daily direc
-https://www.dailymotion.com/video/x7y922d
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nhiaoEc.png" group-title="Testeo", daily Codiguito 3
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x7wzxiw
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TP83hcn/Sin-t-tulo-1.png" group-title="Testeo",uni con token
+https://stream-03.nyc.dailymotion.com/sec(8lOMYwOWJB0kD-8STcdDUCzcvIe02iHCOMNWfSDvJ4cpJ-zYqbyo41iscW_a-_87)/dm/3/x7y922d/d/live-3.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TP83hcn/Sin-t-tulo-1.png" group-title="Testeo",unitel Des 11
 https://stream-02.nyc.dailymotion.com/sec(8lOMYwOWJB0kD-8STcdDUNATC2RtqMyP9X1EyizJv-rGcpUOl0IWrIYgeuna2-hH)/dm/3/x7y922d/d/live-3.m3u8
