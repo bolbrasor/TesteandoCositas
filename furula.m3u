@@ -7,8 +7,6 @@
 https://live4-ott.izzigo.tv/out/u/dash/AZTECA-7-HD/default.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/TP83hcn/Sin-t-tulo-1.png" group-title="Testeo",daily red uno directo
-https://www.dailymotion.com/video/x827j2y
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TP83hcn/Sin-t-tulo-1.png" group-title="Testeo",daily unitel directo
 https://www.dailymotion.com/video/x7y922d
