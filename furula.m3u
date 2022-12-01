@@ -6,13 +6,11 @@
 #KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=MzcwM2FjMDQtY2UxOS0zMDk3LTkzMTYtZWM2MWM5NmI5NTYw
 https://live4-ott.izzigo.tv/out/u/dash/AZTECA-7-HD/default.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/TP83hcn/Sin-t-tulo-1.png" group-title="Testeo",daily unitel directo
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TP83hcn/Sin-t-tulo-1.png" group-title="Testeo",daily direc
 https://www.dailymotion.com/video/x7y922d
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/TP83hcn/Sin-t-tulo-1.png" group-title="Testeo",unitel Desvio 1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TP83hcn/Sin-t-tulo-1.png" group-title="Testeo",unitel Des 1
 https://stream-02.nyc.dailymotion.com/sec(8lOMYwOWJB0kD-8STcdDUNATC2RtqMyP9X1EyizJv-rGcpUOl0IWrIYgeuna2-hH)/dm/3/x7y922d/d/live-3.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/TP83hcn/Sin-t-tulo-1.png" group-title="Testeo",unitel Desvio 2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TP83hcn/Sin-t-tulo-1.png" group-title="Testeo",unitel Des 2
 https://stream-02.nyc.dailymotion.com/sec(8lOMYwOWJB0kD-8STcdDUIKL_GbFEWd_K1ZALKbW9vMBdfIRJG4OuQi_Tb55IlTQ)/dm/3/x7y922d/d/live-3.m3u8
