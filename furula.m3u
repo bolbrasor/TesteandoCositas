@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/looneytunes.png" group-title="24/7",Looney Tunes 24/7
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/524
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/azteca7.png" group-title="México",Azteca 7
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
+https://3.ultimate2019.com/stream/hls/5
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TP83hcn/Sin-t-tulo-1.png" group-title="Testeo",daily red uno directo
