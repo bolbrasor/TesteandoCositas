@@ -1,9 +1,10 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/nhiaoEc.png" group-title="Testeo", teste 2 old
-https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
-old
-http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/27317
+#EXT-X-STREAM-INF:-1 tvg-logo="https://i.imgur.com/nhiaoEc.png" group-title="Testeo", daily directo
+https://www.dailymotion.com/video/x7wzxiw
+
+#EXT-X-STREAM-INF:-1 tvg-logo="https://i.imgur.com/nhiaoEc.png" group-title="Testeo", daily Codiguito
+https://www.dailymotion.com/video/x7wzxiw#tab_embed.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nhiaoEc.png" group-title="Testeo", teste 2 or
 https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
